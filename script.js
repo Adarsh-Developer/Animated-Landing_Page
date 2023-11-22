@@ -49,7 +49,7 @@ tl.from(".home__mid img", {
   y: 150,
   duration: 1,
   ease: Expo.easeInOut,
-  delay: 0.4,
+  delay: 0.75,
 });
 tl.from(".home__mid img", {
   z: -3,
