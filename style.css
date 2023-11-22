@@ -1,8 +1,13 @@
+@font-face {
+  font-family: Nimbus Sans L;
+  src: url(./NimbusSanL-Reg.woff2);
+}
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Nimbus Sans L";
+  font-family: Nimbus Sans L;
 }
 
 html, body{
